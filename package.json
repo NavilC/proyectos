@@ -1,0 +1,17 @@
+{
+  "name": "progra-web-2",
+  "version": "1.0.0",
+  "description": "programacion ll",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./aplicacion/index.js"
+  },
+  "author": "navil",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "colors": "^1.4.0",
+    "cryptr": "^6.2.0"
+  }
+}
